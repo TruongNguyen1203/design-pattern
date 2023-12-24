@@ -1,0 +1,14 @@
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Singleton/bin/Debug/net8.0/Singleton
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Singleton/bin/Debug/net8.0/Singleton.deps.json
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Singleton/bin/Debug/net8.0/Singleton.runtimeconfig.json
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Singleton/bin/Debug/net8.0/Singleton.dll
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Singleton/bin/Debug/net8.0/Singleton.pdb
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Singleton/obj/Debug/net8.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Singleton/obj/Debug/net8.0/Singleton.AssemblyInfoInputs.cache
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Singleton/obj/Debug/net8.0/Singleton.AssemblyInfo.cs
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Singleton/obj/Debug/net8.0/Singleton.csproj.CoreCompileInputs.cache
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Singleton/obj/Debug/net8.0/Singleton.dll
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Singleton/obj/Debug/net8.0/refint/Singleton.dll
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Singleton/obj/Debug/net8.0/Singleton.pdb
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Singleton/obj/Debug/net8.0/Singleton.genruntimeconfig.cache
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Singleton/obj/Debug/net8.0/ref/Singleton.dll

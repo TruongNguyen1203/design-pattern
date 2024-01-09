@@ -12,3 +12,17 @@
 /Users/truongnguyen/Workspace/dotnet/design-pattern/FactoryMethod/FactoryMethod/obj/Debug/net8.0/FactoryMethod.pdb
 /Users/truongnguyen/Workspace/dotnet/design-pattern/FactoryMethod/FactoryMethod/obj/Debug/net8.0/FactoryMethod.genruntimeconfig.cache
 /Users/truongnguyen/Workspace/dotnet/design-pattern/FactoryMethod/FactoryMethod/obj/Debug/net8.0/ref/FactoryMethod.dll
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/FactoryMethod/bin/Debug/net8.0/FactoryMethod
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/FactoryMethod/bin/Debug/net8.0/FactoryMethod.deps.json
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/FactoryMethod/bin/Debug/net8.0/FactoryMethod.runtimeconfig.json
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/FactoryMethod/bin/Debug/net8.0/FactoryMethod.dll
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/FactoryMethod/bin/Debug/net8.0/FactoryMethod.pdb
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/FactoryMethod/obj/Debug/net8.0/FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/FactoryMethod/obj/Debug/net8.0/FactoryMethod.AssemblyInfoInputs.cache
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/FactoryMethod/obj/Debug/net8.0/FactoryMethod.AssemblyInfo.cs
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/FactoryMethod/obj/Debug/net8.0/FactoryMethod.csproj.CoreCompileInputs.cache
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/FactoryMethod/obj/Debug/net8.0/FactoryMethod.dll
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/FactoryMethod/obj/Debug/net8.0/refint/FactoryMethod.dll
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/FactoryMethod/obj/Debug/net8.0/FactoryMethod.pdb
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/FactoryMethod/obj/Debug/net8.0/FactoryMethod.genruntimeconfig.cache
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/FactoryMethod/obj/Debug/net8.0/ref/FactoryMethod.dll

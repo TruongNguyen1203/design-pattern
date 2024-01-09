@@ -2,7 +2,9 @@
 
 public sealed class Singleton
 {
-    private Singleton(){}
+    private Singleton()
+    {
+    }
 
     private static Singleton _instance;
     private static readonly object _lock = new object();
@@ -21,6 +23,7 @@ public sealed class Singleton
                 }
             }
         }
+
         return _instance;
     }
 }
@@ -33,17 +36,24 @@ class Program
         {
             TestSingleton("One");
         });
-
+        
         Thread thread2 = new Thread(() =>
         {
             TestSingleton("Two");
         });
-
+        
         thread1.Start();
         thread2.Start();
-
+        
         thread1.Join();
         thread2.Join();
+        // Caching caching = Caching.GetInstance();
+        // caching.Add("Id", 1);
+        // caching.Add("Name", "Nguyen");
+        // caching.Add("Id", 2);
+        // caching.AddOrUpdate("Id", 2);
+        // Console.WriteLine(caching.Get("Id"));
+        // Console.WriteLine(caching.Get("Name"));
     }
 
     private static void TestSingleton(string value)

@@ -66,11 +66,11 @@ class Client
     }
 }
 
-internal class Program
-{
-    public static void Main(string[] args)
-    {
-        new Client().Main();
-    }
-}
+// internal class Program
+// {
+//     public static void Main(string[] args)
+//     {
+//         new Client().Main();
+//     }
+// }
 

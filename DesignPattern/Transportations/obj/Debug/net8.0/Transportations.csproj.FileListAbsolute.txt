@@ -1,0 +1,14 @@
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Transportations/bin/Debug/net8.0/Transportations
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Transportations/bin/Debug/net8.0/Transportations.deps.json
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Transportations/bin/Debug/net8.0/Transportations.runtimeconfig.json
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Transportations/bin/Debug/net8.0/Transportations.dll
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Transportations/bin/Debug/net8.0/Transportations.pdb
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Transportations/obj/Debug/net8.0/Transportations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Transportations/obj/Debug/net8.0/Transportations.AssemblyInfoInputs.cache
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Transportations/obj/Debug/net8.0/Transportations.AssemblyInfo.cs
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Transportations/obj/Debug/net8.0/Transportations.csproj.CoreCompileInputs.cache
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Transportations/obj/Debug/net8.0/Transportations.dll
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Transportations/obj/Debug/net8.0/refint/Transportations.dll
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Transportations/obj/Debug/net8.0/Transportations.pdb
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Transportations/obj/Debug/net8.0/Transportations.genruntimeconfig.cache
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Transportations/obj/Debug/net8.0/ref/Transportations.dll

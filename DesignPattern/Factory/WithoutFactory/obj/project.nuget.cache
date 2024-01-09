@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "y/xAcGYFkFFh0xSuwlRLnNuFo+hGt/vqy0e4iTXS4Ofi1pbUb43YlIheJaHveKfVHYOZumYYeOCsNJF01G7B2w==",
+  "success": true,
+  "projectFilePath": "/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Factory/WithoutFactory/WithoutFactory.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file /Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Factory/WithoutFactory/obj/project.nuget.cache : Found invalid data while decoding."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Builder/bin/Debug/net8.0/Builder
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Builder/bin/Debug/net8.0/Builder.deps.json
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Builder/bin/Debug/net8.0/Builder.runtimeconfig.json
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Builder/bin/Debug/net8.0/Builder.dll
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Builder/bin/Debug/net8.0/Builder.pdb
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Builder/obj/Debug/net8.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Builder/obj/Debug/net8.0/Builder.AssemblyInfoInputs.cache
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Builder/obj/Debug/net8.0/Builder.AssemblyInfo.cs
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Builder/obj/Debug/net8.0/Builder.csproj.CoreCompileInputs.cache
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Builder/obj/Debug/net8.0/Builder.dll
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Builder/obj/Debug/net8.0/refint/Builder.dll
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Builder/obj/Debug/net8.0/Builder.pdb
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Builder/obj/Debug/net8.0/Builder.genruntimeconfig.cache
+/Users/truongnguyen/Workspace/dotnet/design-pattern/DesignPattern/Builder/obj/Debug/net8.0/ref/Builder.dll
